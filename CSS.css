@@ -1,0 +1,50 @@
+
+
+#mQ{
+    position: relative;
+    left: 250px;
+}
+
+#bq{
+    position: relative;
+    left: 330px;
+}
+
+
+h2
+{
+    font-family: Lobster Two;
+    color: #F0FFFF;
+}
+
+h3{
+    font-size: 44px;
+    color: yellow;
+    font-family: lobster two;
+}
+
+
+
+blockquote {
+border:none;
+font-family:Georgia, "Times New Roman", Times, serif;
+margin-bottom:-30px;
+}
+
+blockquote  {
+    
+    font-size:44px;
+}
+
+blockquote :before { 
+    content: "\201C";
+    font-weight: bold;
+    font-size:200px;
+    color:white;
+} 
+blockquote :after { 
+    content: "\201E";
+    font-weight: bold;
+    font-size:200px;
+    color:white;
+}
