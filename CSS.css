@@ -1,50 +1,56 @@
 
+#headQ { position: relative; left: 250px;}
+#citing {position: relative; left: 646px; bottom: 20px; font-size: 18px; font-family: Raleway;}
 
-#mQ{
+#btn {
     position: relative;
-    left: 250px;
+    left: 152px;
+    bottom: 0px;
+    height: 44px;
+    width: 150px;
+    border-radius: 3px;
+    border: none;
+    background-color: #EC7063;
+    color: white;
+    font-family: Raleway;
+    font-size: 20px;
 }
 
-#bq{
+#D2 {
+    border-radius: 4px;
+    width: 300px; height: 84px;
     position: relative;
-    left: 330px;
+    left: 470px;
 }
 
-
-h2
-{
-    font-family: Lobster Two;
-    color: #F0FFFF;
+.media{
+    border: 1px solid white;
+    background-color: #EC7063;
+    border-radius: 3px;
+    border: none;
+    width: 44px; height: 44px;
+    position: relative;
+    right: 170px;
+    bottom: -5px;
+    font-size: 30px;
+    color: white;
 }
+
+.theQ{ position: relative; left: 310px;}
+
+.Q1{font-size: 90px; position: relative; left: 250px;}
+
+.Q2 { font-size: 90px; position: relative; left: 1010px;}
+
+
+
+h2 { font-family: Lobster Two; color: #F0FFFF;}
 
 h3{
-    font-size: 44px;
-    color: yellow;
-    font-family: lobster two;
+    font-size: 45px;
+    color: white;
+    width: 700px;
+    font-family: Nixie One;
 }
 
-
-
-blockquote {
-border:none;
-font-family:Georgia, "Times New Roman", Times, serif;
-margin-bottom:-30px;
-}
-
-blockquote  {
-    
-    font-size:44px;
-}
-
-blockquote :before { 
-    content: "\201C";
-    font-weight: bold;
-    font-size:200px;
-    color:white;
-} 
-blockquote :after { 
-    content: "\201E";
-    font-weight: bold;
-    font-size:200px;
-    color:white;
-}
+h4 {font-size: 28px;}
