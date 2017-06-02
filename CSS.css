@@ -1,6 +1,6 @@
 
-#headQ { position: relative; left: 250px;}
-#citing {position: relative; left: 646px; bottom: 20px; font-size: 18px; font-family: Raleway;}
+#headQ { position: relative; left: 250px; width: 70%;}
+#citing {position: relative; left: 646px; bottom: 20px; font-size: 18px; font-family: Raleway; width: 20%;}
 
 #btn {
     position: relative;
@@ -41,6 +41,7 @@
 .Q1{font-size: 90px; position: relative; left: 250px;}
 
 .Q2 { font-size: 90px; position: relative; left: 1010px;}
+
 
 
 
